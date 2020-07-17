@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+
+![When Coding,giphy](https://i.giphy.com/media/zOvBKUUEERdNm/source.gif)![When It Works,giphy](https://i.giphy.com/media/12BYUePgtn7sis/giphy.webp)
+![When Debuggin,giphy](https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/source.gif)
+![Eat,Sleep,Code,giphy](https://i.giphy.com/USV0ym3bVWQJJmNu3N.gif)
+
+Images @ https://giphy.com/
 
 <!--
 **alixcan/alixcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
