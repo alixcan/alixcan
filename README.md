@@ -1,5 +1,4 @@
-<img src="https://i.giphy.com/USV0ym3bVWQJJmNu3N.gif" align="right" height="200" alt="">
-
+<img src="https://raw.githubusercontent.com/alixcan/alixcan/master/images/AlixcaN.png" alt="AlixcaN">
 
 ### Merhaba, Ben Alican 👋
 
@@ -9,6 +8,8 @@ I powered with 🍵 and ☕ and `<code />` with ❤️
 
 <!-- You can reach me @ ..-->
 
+
+<img src="https://i.giphy.com/USV0ym3bVWQJJmNu3N.gif" align="right" height="200" alt="">
 
 - ➡️ Şu sıralar çalıştığım fabrika için;
     <br>
