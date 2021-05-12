@@ -3,7 +3,7 @@
 
 ### Merhaba, Ben Alican 👋
 
-## PHP / Laravel geliştiricisiyim | Bir fabrikada BT olarak çalışıyorum.
+## PHP / Laravel geliştiricisiyim.
 
 I powered with 🍵 and ☕ and `<code />` with ❤️
 
